@@ -8,7 +8,7 @@ Overview
 Software Demo Video
 
 Development Environment
-{Python 3.14, Jupyter Notebook, Pandas library, NumPy, matplotlib}
+{Python 3.14, Jupyter Notebook, Pandas library, NumPy, matplotlib, yfinance}
 
 {Python is a rather powerful and diverse programming language and one that is easily useful for exploring the large amounts of datasets suitable for research and also identifying patterns }
 
@@ -18,3 +18,7 @@ Useful Websites
 Stack overflow
 Visual Studio Code
 [ChatGPT] https://chatgpt.com
+https://blog.quantinsti.com/stock-market-data-analysis-python/
+https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/
+claude ai
+
